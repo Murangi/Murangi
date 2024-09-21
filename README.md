@@ -16,7 +16,7 @@
 
 💬 Ask me any riddle you know!
 
-⚡ Fun fact enjoy Music Production 2.
+⚡ Fun fact enjoy music production too.
 
  </div>
 

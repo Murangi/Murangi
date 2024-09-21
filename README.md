@@ -12,11 +12,11 @@
  
  🔭 I’m currently learning Full Stack Web Development through Udemy.
  
- 🌱 I’m currently learning how to use the Bootstrap. 
+ 🌱 I’m currently learning how to use the Bootstrap Framework. 
 
 💬 Ask me any riddle you know!
 
-⚡ Fun fact enjoy music production too.
+⚡ Fun fact I enjoy music production too.
 
  </div>
 

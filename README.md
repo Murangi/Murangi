@@ -12,7 +12,7 @@
  
  🔭 I’m currently learning Full Stack Web Development through Udemy.
  
- 🌱 I’m currently learning the Javascript language. 
+ 🌱 I’m currently learning the jQuery. 
 
 💬 Ask me any riddle you know!
 
